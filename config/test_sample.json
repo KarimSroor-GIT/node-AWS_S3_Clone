@@ -1,0 +1,14 @@
+{
+  "application_name": "S3 Bucket Clone",
+  "log_level": "info",
+  "local_S3":"my_local_S3",
+  "aws": {
+    "access_key_id": "123445679107777",
+    "secret_access_key": "ASWRDIOUCKVKJCGJi9glygkiyfjvhvh",
+    "region": "ap-southeast-2",
+    "bucket": "test-bucket",
+    "host": "https://s3-ap-southeast-2.amazonaws.com",
+    "rootDirectory": "app_test/test_folder/"
+  },
+  "concurrency":4
+}
