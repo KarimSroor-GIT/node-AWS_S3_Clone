@@ -20,6 +20,7 @@ npm run fix-lint
 
 
 ## to do list
-- Writing unit/integration tests.
+-- Create a file containing the list of downloaded files then encrypt this file using KMS with a user-defined CMK
+-- Writing unit/integration tests.
 
 
